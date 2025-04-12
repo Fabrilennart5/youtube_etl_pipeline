@@ -1,0 +1,5 @@
+duckdb==1.2.2
+google-api-python-client==2.166.0
+python-dotenv==0.21.1  # Actualiza esta línea a la versión más reciente disponible
+requests
+
