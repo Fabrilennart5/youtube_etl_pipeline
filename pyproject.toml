@@ -1,0 +1,13 @@
+[project]
+name = "youtube-etl-pipeline"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "dotenv>=0.9.9",
+    "duckdb>=1.2.2",
+    "google-api-python-client>=2.166.0",
+    "pytest>=8.3.5",
+    "requests>=2.32.3",
+]
